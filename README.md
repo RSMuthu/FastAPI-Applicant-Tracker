@@ -32,15 +32,15 @@ Ways to Improve:
 Application working screenshots
 
 - Login Page (no auth is programmed for simplicity use)\
-[login Page](https://github.com/RSMuthu/FastAPI-Applicant-Tracker/imgs/login_page.PNG)
+![login Page](https://github.com/RSMuthu/FastAPI-Applicant-Tracker/blob/master/imgs/login_page.PNG)
 - Candidate View Page (Based on the user selected on Login page)\
-[Candidate Page](https://github.com/RSMuthu/FastAPI-Applicant-Tracker/imgs/candidate_page.PNG)
+![Candidate Page](https://github.com/RSMuthu/FastAPI-Applicant-Tracker/blob/master/imgs/candidate_page.PNG)
 - Modal view of a Job on Candidate's page\
-[Job modal on Candidate's Page](https://github.com/RSMuthu/FastAPI-Applicant-Tracker/imgs/job_modal.PNG)
+![Job modal on Candidate's Page](https://github.com/RSMuthu/FastAPI-Applicant-Tracker/blob/master/imgs/job_modal.PNG)
 - Recruiter View Page (Based on the user selected on Login Page)\
-[Recruiter Page](https://github.com/RSMuthu/FastAPI-Applicant-Tracker/imgs/recruiter_page.PNG)
+![Recruiter Page](https://github.com/RSMuthu/FastAPI-Applicant-Tracker/blob/master/imgs/recruiter_page.PNG)
 - Modal View for entering new Job details on Recruiter's page
-[New Job Modal view](https://github.com/RSMuthu/FastAPI-Applicant-Tracker/imgs/new_job_modal.PNG)
+![New Job Modal view](https://github.com/RSMuthu/FastAPI-Applicant-Tracker/blob/master/imgs/new_job_modal.PNG)
 
 This application is not deployed yet.\
 **_Further, Shall work on the Deployment_**
