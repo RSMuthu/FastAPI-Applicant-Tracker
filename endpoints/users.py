@@ -7,7 +7,7 @@ from database.model import User
 from Tracker import app
 
 @app.post("/api/user/add", response_model=User_Create)
-def get_job(user_data: User_Create, db: Session = Depends(get_db)):
+def new_user(user_data: User_Create, db: Session = Depends(get_db)):
     '''
     Add new user to the System
 
